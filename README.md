@@ -15,7 +15,7 @@ There will be two types of users: general users and official users.
 2) The application that they have submitted will appear in the dashboard of officials who serve in offices under the users registered pincode.
 3) The user can find existing applications they have filed and its status in their dashboard.
 
-Official User
+<ins>Official User</ins>
 1) Officials can view applications that have been posted for them to work on (under their office) in their dashboard.
 2) They can resolve, reject or escalate. This will be reflected in the database and inturn will be reflected in the concerned users dashboard.
 
