@@ -21,9 +21,9 @@ There will be two types of users: general users and official users.
 
 **PROBLEMS SOLVED BY THE APPLICATION**
 
-The time common people spend at the offices filing the application and time spent on revisits to check the status of application can be saved.
-The officials will be held accountable to complete the work in time.
-Crowds at government offices can be controlled by digitizing a lot of the processes.
+1) The time common people spend at the offices filing the application and time spent on revisits to check the status of application can be saved.
+2) The officials will be held accountable to complete the work in time.
+3) Crowds at government offices can be controlled by digitizing a lot of the processes.
 
 **WORK PLAN AND RESPONSIBILITIES**
 
