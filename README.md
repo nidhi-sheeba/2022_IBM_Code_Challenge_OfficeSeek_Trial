@@ -34,3 +34,7 @@ Backend   : Express (server setup), MongoDB (database), node.js ( Divya, Sebasti
 **USER FLOW DIAGRAM**
 
 **ANIMATION VIDEO AND DEMONSTRATION VIDEO**
+
+
+https://user-images.githubusercontent.com/72991264/170538086-37e01213-3b10-4efa-9113-c45402f906fb.mp4
+
