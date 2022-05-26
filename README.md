@@ -31,6 +31,6 @@ Front end : HTML, CSS, JS  (Nidhi, Divya, Sebastian)
 
 Backend   : Express (server setup), MongoDB (database), node.js ( Divya, Sebastian, Nidhi)
 
-** User flow diagram **
+**User flow diagram**
 
-** Animation and demonstration videos**
+**Animation and demonstration videos**
