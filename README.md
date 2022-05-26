@@ -31,9 +31,19 @@ Front end : HTML, CSS, JS  (Nidhi, Divya, Sebastian)
 
 Backend   : Express (server setup), MongoDB (database), node.js ( Divya, Sebastian, Nidhi)
 
-**USER FLOW DIAGRAM**
+
+**PAGES RENDERED**
+
+![pages](https://user-images.githubusercontent.com/106172367/170547891-1f6a7e57-b434-4db0-b48e-661c6b5dbe85.jpeg)
+
+**ROUTING**
+
+![routing](https://user-images.githubusercontent.com/106172367/170547906-8f5094a0-3ee9-4b06-9d0a-405dede8a03c.jpeg)
+
+
 
 **ANIMATION VIDEO AND DEMONSTRATION VIDEO**
+
 
 
 https://user-images.githubusercontent.com/72991264/170538086-37e01213-3b10-4efa-9113-c45402f906fb.mp4
